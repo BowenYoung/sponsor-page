@@ -1,4 +1,5 @@
 # These are supported funding model platforms
 
-custom: https://www.paypal.me/bowenyoung24 # Replace with a single custom sponsorship URL
-custom: https://www.buymeacoffee.com/BowenYoung
+custom: 
+ - https://www.paypal.me/bowenyoung24 # Replace with a single custom sponsorship URL
+ - https://www.buymeacoffee.com/BowenYoung
