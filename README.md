@@ -18,7 +18,7 @@
 1. 将自己的支付宝收款码重命名为`AliPayQR.png`
   <br />微信收款码两份，一份重命名为`WeChanQR.png`，另一份重命名为`WeChanSQ.png`
   <br />QQ收款码重命名为`QQpay.png`
-  <br />进入`\simple\images`目录将上述名称的文件删除后，上传自己的4个文件
+  <br />进入`/simple/images`目录将上述名称的文件删除后，上传自己的4个文件
 2. 打开`/simple/index.html`
   <br />将第14行的`https://paypal.me/bowenyoung24`改为你的paypal收款链接
 3. 打开`/drinks/index.html`
