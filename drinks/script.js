@@ -11,7 +11,7 @@ var drinks_qrcodes = $('#drinks-qrcodes');
 var drinks_qrcode = $('#drinks-qrcode');
 var isMobile = /Android|webOS|iPhone|iPad|BlackBerry/i.test(navigator.userAgent);
 
-var GithubLink  =   "https://github.com/BowenYoung"; // 改成你的GitHub链接
+var GithubLink  =   "https://github.com/BowenYoung";
 var PayPalLink  =   "https://www.paypal.me/bowenyoung24"; // 改成你的paypal链接
 $('#paypal-donate>a').href = PayPalLink;
 $('#github-box>a').href = GithubLink;
