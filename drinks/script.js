@@ -11,12 +11,12 @@ var drinks_qrcodes = $('#drinks-qrcodes');
 var drinks_qrcode = $('#drinks-qrcode');
 var isMobile = /Android|webOS|iPhone|iPad|BlackBerry/i.test(navigator.userAgent);
 
-var GithubLink  =   "https://github.com/kelecn/sponsor-page/";
-var PayPalLink  =   "https://www.paypal.me/kelecn";
+var GithubLink  =   "https://github.com/BowenYoung"; // 改成你的GitHub链接
+var PayPalLink  =   "https://www.paypal.me/bowenyoung24"; // 改成你的paypal链接
 $('#paypal-donate>a').href = PayPalLink;
 $('#github-box>a').href = GithubLink;
 var qrcodes = {
-    'btc_donate'	:	'../simple/images/BTCQR.png',	// 二维码路径
+    'btc_donate'	:	'../simple/images/QQpay.png',	// QQ二维码路径
     'alipay_donate'	:	'../simple/images/AliPayQR.png',	// 支付宝二维码
     'alipay_donate_link'   :   'https://qr.alipay.com/fkx12803cjkw4cmcvt0jm77',   // 支付宝二维码上的链接，必须换成自己的连接！！！手机点击会自动跳转到支付宝。
     'wechat_donate'	:	'../simple/images/WeChanSQ.png'
