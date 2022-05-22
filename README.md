@@ -4,7 +4,7 @@
 参考项目：
 <br />[Kaiyuan/sponsor-page](https://github.com/Kaiyuan/sponsor-page)
 <br />[kelecn/sponsor-page](https://github.com/kelecn/sponsor-page)
-点击右上角sponsor可以打赏原作者
+本项目仅对上述项目进行细微修改，点击右上角sponsor可以打赏原作者
 
 ## 效果：
 <br />simple:
