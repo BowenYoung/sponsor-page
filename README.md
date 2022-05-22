@@ -6,5 +6,5 @@
 <br />[kelecn/sponsor-page](https://github.com/kelecn/sponsor-page)
 
 效果：
-<br />![simple](/simple.gif)
-<br />![drinks](/drinks.gif)
+<br />![simple](./simple.gif)
+<br />![drinks](./drinks.gif)
