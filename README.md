@@ -21,7 +21,7 @@
   <br />QQ收款码重命名为`QQpay.png`
   <br />进入`/simple/images`目录将上述名称的文件删除后，上传自己的4个文件
 2. 打开`/simple/index.html`
-  <br />将第14行的`https://paypal.me/bowenyoung24`改为你的paypal收款链接
+  <br />将第17行的`https://paypal.me/bowenyoung24`改为你的paypal收款链接
 3. 打开`/drinks/index.html`
   <br />将第23行的`https://www.paypal.me/bowenyoung24`改为你的paypal收款链接
 4. 打开`/drinks/script.js `
