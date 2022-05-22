@@ -29,7 +29,7 @@
 ### 检查
 将该仓库克隆到本地或直接下载。分别点击`simpe`下的`index.html`和`drinks`目录下的`index.html`查看效果。
 
-## 在hexo博客中中插入捐赠部件
+## 在hexo博客中插入捐赠部件
 + 在博客根目录的`source`文件夹中新建一个名为`donate`的文件夹将刚才的`simple`文件夹和`drinks`文件夹粘贴进去
 + 在`_config.yml`中添加
   ```
