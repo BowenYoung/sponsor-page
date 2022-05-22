@@ -1,7 +1,7 @@
 jQuery(document).ready(function() {
 	var QRBox	=	$('#QRBox');
 	var MainBox	=	$('#MainBox');
-	var BTCQR	=	'images/BTCQR.png';	// 二维码路径
+	var qqQR	=	'images/QQpay.png';	// 二维码路径
 	var AliPayQR	=	'images/AliPayQR.png';
 	var WeChanQR	=	'images/WeChanSQ.png';
 
@@ -20,7 +20,7 @@ jQuery(document).ready(function() {
 	$('#donateBox>li').click(function(event) {
 		var thisID	=	$(this).attr('id');
 		if (thisID === 'BTC') {
-			showQR(BTCQR);
+			showQR(qqQR);
 			new Clipboard('#BTCBn');
 		} else if (thisID === 'AliPay') {
 			showQR(AliPayQR);
