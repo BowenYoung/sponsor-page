@@ -7,4 +7,4 @@
 
 效果：
 <br />![simple](./simple.gif)
-<br />![drinks](./drinks.gif)
+<br />![drinks](https://raw.githubusercontent.com/BowenYoung/sponser-page/main/drinks%20%20.gif)
